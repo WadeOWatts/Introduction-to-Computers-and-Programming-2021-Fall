@@ -1,3 +1,5 @@
+### Homework 2 Description
+
 Write a program to calculate the slope between two points  x<sub>1</sub>, y<sub>1</sub>  and x<sub>2</sub>, y<sub>2</sub>. The points should be entered as four *double* values in the order x1, y1, x2, and y2.
 
 The formula to calculate the slope,  *m* , between two points is:

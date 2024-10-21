@@ -1,0 +1,3 @@
+10 20 30 40 50 60 70 80
+do re mi fa so la ti do
+implement the function split so that it returns a vector of the strings
