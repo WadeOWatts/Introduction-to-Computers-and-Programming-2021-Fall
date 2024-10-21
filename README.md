@@ -52,10 +52,4 @@
 | Chap. 9 - Pointers and Dynamic Arrays (C/C++ Styles) |  | 4hr |  |  |  |  |
 | Chap. 10 - Defining Structures and Classes |  | 3hr |  |  |  |  |
 
-| 教學要點概述： |
-| --- |
-| 1.學期作業、考試、評量：
-Lab: 10%, Homework: 15%, Project: 20%, Midterm:15%, Final: 20%, On-Line Test: 20%
-2.教學方法及教學相關配合事項（如助教、網站或圖書及資料庫等）
-本課程以課堂講授為主, 搭配每周一次的上機實習時間, 讓同學熟悉程式語言的撰寫方法, 並透過回家作業及期末專題, 讓同學從動手實作之中習得解決問題之能力. |
 
